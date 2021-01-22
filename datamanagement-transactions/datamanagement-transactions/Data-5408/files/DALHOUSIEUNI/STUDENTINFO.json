@@ -1,0 +1,1 @@
+{"dataVal":[{"STDID":"101","COURSE":"MACS","NAME":"SHIVANI"}],"Primary Key":"STDID","Foreign Key Details":[{"Foreign Key":"COURSE"},{"Referencing Table":"COURSE"},{"Referencing Column":"COURSEID"}],"tablename":"STUDENTINFO","columnlist":[{"Column0":"STDID"},{"Column1":"NAME"},{"Column2":"COURSE"}]}
